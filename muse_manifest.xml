@@ -1,0 +1,152 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="filippov.github.io" resolutions="1x" timestamp="1492955971935">
+  <folder name="css">
+    <file name="site_global.css" crc="4258836286"/>
+    <file name="index.css" crc="4155259861" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cool-rain-gif-117.gif" crc="4072970376" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo1.png" crc="70828540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo2.jpg" crc="4110222898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.jpg" crc="403802009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33.jpg" crc="329268707" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44.jpg" crc="400361936" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55.jpg" crc="4038180472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66.jpg" crc="4123812849" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="77.jpg" crc="313612988" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="88.jpg" crc="4014937743" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7951.png" crc="246022645" ref="index"/>
+    <file name="u7951-r.png" crc="411799068" ref="index"/>
+    <file name="u7804.png" crc="3949522533" ref="index"/>
+    <file name="u7804-r.png" crc="85431172" ref="index"/>
+    <file name="u8010.png" crc="131115439" ref="index"/>
+    <file name="u8010-r.png" crc="228638162" ref="index"/>
+    <file name="u7862.png" crc="4030677833" ref="index"/>
+    <file name="u7862-r.png" crc="4115286390" ref="index"/>
+    <file name="13205175.gif" crc="278193955" ref="index">
+      <caption webpage="index" alt="﷯"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u6248.png" crc="496799238" ref="index"/>
+    <file name="u6248-r.png" crc="4184773454" ref="index"/>
+    <file name="u6248-m.png" crc="4184773454" ref="index"/>
+    <file name="u6248-a.png" crc="4003124182" ref="index"/>
+    <file name="u6243.png" crc="4191320755" ref="index"/>
+    <file name="u6243-r.png" crc="303768475" ref="index"/>
+    <file name="u6243-m.png" crc="303768475" ref="index"/>
+    <file name="u6243-a.png" crc="3777475051" ref="index"/>
+    <file name="u6245.png" crc="265466184" ref="index"/>
+    <file name="u6245-r.png" crc="3928329536" ref="index"/>
+    <file name="u6245-m.png" crc="3928329536" ref="index"/>
+    <file name="u6245-a.png" crc="4223201608" ref="index"/>
+    <file name="u9571.png" crc="147630401" ref="index"/>
+    <file name="u9571-r.png" crc="4160082692" ref="index"/>
+    <file name="1-u8828-fr.jpg" crc="4268572189" ref="index"/>
+    <file name="2-u9002-fr.jpg" crc="3770584465" ref="index"/>
+    <file name="3-u9012-fr.jpg" crc="4063538590" ref="index"/>
+    <file name="4-u9066-fr.jpg" crc="408981504" ref="index"/>
+    <file name="5-u9076-fr.jpg" crc="536240701" ref="index"/>
+    <file name="6-u9082-fr.jpg" crc="459813721" ref="index"/>
+    <file name="1.jpg" crc="4057801142" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8822-6.png" crc="508366570" ref="index"/>
+    <file name="2.jpg" crc="214939933" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9027-6.png" crc="3955079705" ref="index"/>
+    <file name="3.jpg" crc="29326242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9033-6.png" crc="3825196110" ref="index"/>
+    <file name="4.jpg" crc="205012500" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9089-4.png" crc="107291843" ref="index"/>
+    <file name="5.jpg" crc="3856768088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9095-4.png" crc="4279281896" ref="index"/>
+    <file name="6.jpg" crc="332390420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9101-4.png" crc="3867915485" ref="index"/>
+    <file name="u9512.png" crc="311068372" ref="index"/>
+    <file name="u9512-r.png" crc="4167932406" ref="index"/>
+    <file name="22-u9149-fr.jpg" crc="74480035" ref="index"/>
+    <file name="33-u9151-fr.jpg" crc="4262483422" ref="index"/>
+    <file name="55-u9150-fr.jpg" crc="508228170" ref="index"/>
+    <file name="55-u9150-a-fr.jpg" crc="508228170" ref="index"/>
+    <file name="44-u9146-fr.jpg" crc="84423543" ref="index"/>
+    <file name="44-u9146-a-fr.jpg" crc="4263719332" ref="index"/>
+    <file name="66-u9147-fr.jpg" crc="4279655501" ref="index"/>
+    <file name="77-u9148-fr.jpg" crc="4040941139" ref="index"/>
+    <file name="88-u9315-fr.jpg" crc="118431399" ref="index"/>
+    <file name="attest1-u9323-fr.jpg" crc="4266545412" ref="index"/>
+    <file name="attest2-u9329-fr.jpg" crc="4021433921" ref="index"/>
+    <file name="attest1.jpg" crc="3832736800" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="attest2.jpg" crc="4065968440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l1-слой 0.png" crc="153469263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l1.png" crc="254849640" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-слой 0.png" crc="3960224368" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1.png" crc="434268353" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l1-слой 0 копия.png" crc="4275298283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-слой 0 копия.png" crc="3912921114" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="l1-слой 02.png" crc="93213976" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-слой 02.png" crc="4126110591" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4064905236" seo="true" mt="1492955936171" redirect="true"/>
+</manifest>
